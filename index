@@ -7,7 +7,7 @@
     </head>
    
     <body>
-<img src="banner.jpg">
+<img id="banner" src="banner.jpg">
 
 <h1>Sobre a Barbearia Alura</h1>
 
@@ -19,4 +19,5 @@ Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos c
 O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
     </body>
 </html>
+
 
