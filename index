@@ -7,7 +7,7 @@
     </head>
    
     <body>
-<img id="banner" src="banner.jpg">
+<img id= "banner" src="banner.jpg">
 
 <h1>Sobre a Barbearia Alura</h1>
 
@@ -17,7 +17,14 @@ Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos c
 <p id="missao"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
 <p style="text-align: center">Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
 O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+
+ <h2>Benefícios</h2>
+
+ <ul>
+    <li class="itens">Atendimeno aos Clientes</li>
+    <li class="itens">Espaço diferenciado</li>
+    <li class="itens">Localização</li>
+    <li class="itens">Profissionais Qualificados</li>
+ <ul>
     </body>
 </html>
-
-
