@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background: #BBBBBB;
+    background: #1de5ff;
     padding: 20px 0;
 }
 
@@ -85,12 +85,12 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background: url("bg.jpg");
+    background: url("fundo.ceu");
     padding: 40px 0;
 }
 
 .copyright {
-    color: #FFFFFF;
+    color: #e4bbfc;
     font-size: 13px;
     margin: 20px 0 0;
 }
@@ -139,8 +139,8 @@ table {
 }
 
 thead {
-    background: #555555;
-    color: white;
+    background: #0083cf;
+    color: rgb(43, 255, 0);
     font-weight: bold;
 }
 
@@ -167,7 +167,7 @@ td, th {
 
 .principal {
     padding: 3em 0;
-    background: #FEFEFE;
+    background: #064047;
     width: 940px;
     margin: 0 auto;
 } 
@@ -192,7 +192,7 @@ td, th {
 
 .beneficios {
     padding: 3em 0;
-    background: #888888;
+    background: #720db6;
 }
 
 .conteudo-beneficios {
@@ -222,7 +222,6 @@ td, th {
     width: 60%;
     opacity: 1;
     transition: 400ms;
-    box-shadow: 10px 10px 10px 0 #000000;
 }
 
 .imagem-beneficios:hover {
@@ -231,7 +230,7 @@ td, th {
 
 .mapa {
     padding: 3em 0;
-    background: linear-gradient(#FEFEFE, #888888);
+    background: linear-gradient(#064047, #720db6);
 }
 
 .mapa-conteudo {
@@ -247,4 +246,8 @@ td, th {
 .video {
     width: 560px;
     margin: 2em auto;
+}
+
+.final{
+    background-color: #dcb4f0;
 }
